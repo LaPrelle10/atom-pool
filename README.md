@@ -1,2 +1,2 @@
 # atom-pool
-A blockchain cryptocurrency algorithm atom. 
+A blockchain cryptocurrency digital coin atom XLM. 
